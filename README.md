@@ -2,6 +2,7 @@
 **CONTENIDOS DEL REPOSITORIO**
 - **/blog_theme** - Diseño de tema para WordPress estilo blog
 - **/mrjav_maqueta** - Maqueta del tema para WordPress estilo portfolio
+- **/bf_recaptcha** - Plugin que añade el reCaptcha de Google en el formulario de registro de WordPress
 - **mrjav_diseno.afdesign** - Diseño de del tema portfolio mrjav
 
 
@@ -18,3 +19,6 @@
 
 ### Commit 4
 * Añadir la carpeta con el tema del blog (sólo el diseño)
+
+### Commit 5
+* Añadido el plugin BF reCaptcha
